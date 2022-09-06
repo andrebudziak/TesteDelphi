@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/09/03 11:28:21.000.384,=C:\Users\ti_adm\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/09/03 11:34:16.000.915,=C:\Users\ti_adm\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/09/03 11:35:55.000.712,C:\temp\Teste_Delphi\uPrincipal.dfm=C:\Users\ti_adm\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/09/03 11:35:55.000.712,C:\temp\Teste_Delphi\uPrincipal.pas=C:\Users\ti_adm\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/09/03 11:36:08.000.634,C:\temp\Teste_Delphi\Model\uClassCliente.pas=C:\Users\ti_adm\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/09/03 11:36:14.000.821,C:\temp\Teste_Delphi\Teste.dproj=C:\Users\ti_adm\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/09/03 11:54:02.000.087,=C:\temp\Teste_Delphi\uDmConnection.pas</Transaction>
+    <Transaction>2022/09/03 12:37:01.000.931,=C:\temp\Teste_Delphi\Unit1.pas</Transaction>
+    <Transaction>2022/09/03 12:38:48.000.259,C:\temp\Teste_Delphi\Controller\uControllerCliente.pas=C:\temp\Teste_Delphi\Unit1.pas</Transaction>
+    <Transaction>2022/09/03 12:53:01.000.227,=C:\temp\Teste_Delphi\Unit1.pas</Transaction>
+    <Transaction>2022/09/03 12:53:45.000.134,C:\temp\Teste_Delphi\Model\uProduto.pas=C:\temp\Teste_Delphi\Unit1.pas</Transaction>
+    <Transaction>2022/09/03 12:54:00.000.743,C:\temp\Teste_Delphi\Model\uCliente.pas=C:\temp\Teste_Delphi\Model\uClassCliente.pas</Transaction>
+    <Transaction>2022/09/03 12:55:04.000.727,C:\temp\Teste_Delphi\Model\uClassProduto.pas=C:\temp\Teste_Delphi\Model\uProduto.pas</Transaction>
+    <Transaction>2022/09/03 13:28:39.000.134,=C:\temp\Teste_Delphi\Unit1.pas</Transaction>
+    <Transaction>2022/09/03 13:29:08.000.509,C:\temp\Teste_Delphi\Model\uClassPedido.pas=C:\temp\Teste_Delphi\Unit1.pas</Transaction>
+    <Transaction>2022/09/03 13:29:21.000.102,=C:\temp\Teste_Delphi\Unit1.pas</Transaction>
+    <Transaction>2022/09/03 13:29:42.000.056,C:\temp\Teste_Delphi\Model\uClassPedidoItem.pas=C:\temp\Teste_Delphi\Unit1.pas</Transaction>
+    <Transaction>2022/09/03 13:29:50.000.837,=C:\temp\Teste_Delphi\Unit1.pas</Transaction>
+    <Transaction>2022/09/03 13:30:14.000.368,C:\temp\Teste_Delphi\Controller\uControllerProduto.pas=C:\temp\Teste_Delphi\Unit1.pas</Transaction>
+    <Transaction>2022/09/03 13:30:22.000.774,=C:\temp\Teste_Delphi\Unit1.pas</Transaction>
+    <Transaction>2022/09/03 13:30:43.000.571,C:\temp\Teste_Delphi\Controller\uControllerPedido.pas=C:\temp\Teste_Delphi\Unit1.pas</Transaction>
+    <Transaction>2022/09/03 13:30:51.000.196,=C:\temp\Teste_Delphi\Unit1.pas</Transaction>
+    <Transaction>2022/09/03 13:31:12.000.743,C:\temp\Teste_Delphi\Controller\uControllerPedidoItem.pas=C:\temp\Teste_Delphi\Unit1.pas</Transaction>
+    <Transaction>2022/09/03 14:17:45.000.540,=C:\temp\Teste_Delphi\Unit1.pas</Transaction>
+    <Transaction>2022/09/03 14:18:23.000.602,C:\temp\Teste_Delphi\uPedido.pas=C:\temp\Teste_Delphi\Unit1.pas</Transaction>
+    <Transaction>2022/09/03 14:18:23.000.602,C:\temp\Teste_Delphi\uPedido.dfm=C:\temp\Teste_Delphi\Unit1.dfm</Transaction>
+    <Transaction>2022/09/03 14:40:37.000.243,=C:\temp\Teste_Delphi\Unit1.pas</Transaction>
+    <Transaction>2022/09/03 14:41:17.000.774,C:\temp\Teste_Delphi\uDMConexao.pas=C:\temp\Teste_Delphi\Unit1.pas</Transaction>
+    <Transaction>2022/09/03 14:41:17.000.774,C:\temp\Teste_Delphi\uDMConexao.dfm=C:\temp\Teste_Delphi\Unit1.dfm</Transaction>
+    <Transaction>2022/09/03 14:42:02.000.103,C:\temp\Teste_Delphi\uDmConnection.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
